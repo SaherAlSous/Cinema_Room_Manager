@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager (1)/task/build/
+/Cinema Room Manager (1)/task/out/
+/Cinema Room Manager (1)/task/out/production/classes/
+/Topics/While loops/Balance checker/out/
+/Topics/While loops/Balance checker/out/production/classes/
+/Topics/While loops/Squares of natural numbers/out/
+/Topics/While loops/Squares of natural numbers/out/production/classes/
+/Topics/While loops/The sequence 1 2 2 3 3 3 .../out/
+/Topics/While loops/The sequence 1 2 2 3 3 3 .../out/production/classes/
